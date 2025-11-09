@@ -1,0 +1,92 @@
+/* .main_conatiner{
+   width:900px;
+   border: 1px solid black;
+   margin:7% 18%;
+}
+#header{
+   font-size: 2em;
+   padding-left:280px
+}
+body{
+    background-color: #F5F8FA;
+}
+.input_div{
+    padding-left:150px;
+    font-size: xx-large;
+}
+#input{
+    width:500px;
+    height:35px;
+}
+#button{
+    width:80px;
+    height:35px;
+    font-size: x-large;
+} */
+
+body{
+    background-color: darkgray;
+}
+#header{
+    margin-left:33%;
+    margin-top: 12%;
+    font-size: 3em;
+}
+#input{
+    width:500px;
+    height:35px;
+    border-radius: 8px;
+    border: transparent;
+    font-size: 1em;
+}
+.input_div{
+    margin-left: 30%;
+    padding-bottom: 30px;
+
+}
+/* .Table_head{
+   padding-left:50px;
+} */
+
+.Table_head{
+    font-size: 1em;
+}
+#button{
+    width: 60px;
+    height: 39px;
+    border-radius: 9px;
+    border-color: transparent;
+}
+.Table{
+    margin-left:30%;  
+}
+#head{
+    width:250px;
+    height:20px;
+    font-size:x-large;
+    padding-right: 170px;
+}
+#change{
+    width:200px;
+    font-size:x-large;
+    padding-left: 40px;
+}
+#change_button{
+    font-size: large;
+    padding: 4px;
+    width: 70px;
+    border-radius: 8px;
+    border: transparent;
+}
+#data{
+    padding-left:70px;
+}
+#values{
+    font-size: x-large;
+    font-style:inherit;
+    padding-left: 100px;
+}
+.tasks_div{
+    width: 1250px;
+    height:100px;
+}
